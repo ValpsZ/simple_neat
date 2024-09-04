@@ -2,6 +2,15 @@
 name = "simple_neat"
 version = "0.1.0"
 edition = "2021"
+authors = ["Valps limelgren@gmail.com"]
+description = "A simple NEAT like create for rust"
+documentation = "https://docs.rs/simple_neat"
+readme = "README.md"
+homepage = "https://github.com/ValpsZ/simple_neat"
+repository = "https://github.com/ValpsZ/simple_neat"
+license = "MIT"
+keywords = ["machine-learning", "NEAT", "ai"]
+categories = ["Science"]
 
 [dependencies]
 rand = "0.8.5"
